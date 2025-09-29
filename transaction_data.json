@@ -1,0 +1,155 @@
+{
+  "accounts": [
+    {
+      "account_id": "YpYqZkR2n5IqYnK8XllXpWcQdrL37gIwv11wz",
+      "balances": {
+        "available": 3105.75,
+        "current": 3250.00,
+        "iso_currency_code": "USD",
+        "limit": null,
+        "unofficial_currency_code": null
+      },
+      "mask": "1111",
+      "name": "Gemini Savings",
+      "official_name": "Gemini Platinum Savings Account",
+      "subtype": "savings",
+      "type": "depository"
+    }
+  ],
+  "added": [
+    {
+      "account_id": "YpYqZkR2n5IqYnK8XllXpWcQdrL37gIwv11wz",
+      "amount": -2500.00,
+      "iso_currency_code": "USD",
+      "date": "2025-09-15",
+      "name": "Acme Corp Direct Deposit",
+      "merchant_name": "Acme Corporation",
+      "transaction_id": "txn_pay_0915",
+      "payment_channel": "online",
+      "pending": false,
+      "personal_finance_category": {
+        "primary": "INCOME",
+        "detailed": "PAYCHECK",
+        "confidence_level": "VERY_HIGH"
+      }
+    },
+    {
+      "account_id": "YpYqZkR2n5IqYnK8XllXpWcQdrL37gIwv11wz",
+      "amount": 215.45,
+      "iso_currency_code": "USD",
+      "date": "2025-09-16",
+      "name": "Costco Wholesale",
+      "merchant_name": "Costco",
+      "transaction_id": "txn_costco_0916",
+      "payment_channel": "in store",
+      "pending": false,
+      "personal_finance_category": {
+        "primary": "GENERAL_MERCHANDISE",
+        "detailed": "SUPERMARKETS_AND_GROCERIES",
+        "confidence_level": "VERY_HIGH"
+      }
+    },
+    {
+      "account_id": "YpYqZkR2n5IqYnK8XllXpWcQdrL37gIwv11wz",
+      "amount": 19.99,
+      "iso_currency_code": "USD",
+      "date": "2025-09-17",
+      "name": "Netflix Subscription",
+      "merchant_name": "Netflix",
+      "transaction_id": "txn_netflix_0917",
+      "payment_channel": "online",
+      "pending": false,
+      "personal_finance_category": {
+        "primary": "ENTERTAINMENT",
+        "detailed": "STREAMING_SERVICES",
+        "confidence_level": "VERY_HIGH"
+      }
+    },
+    {
+      "account_id": "YpYqZkR2n5IqYnK8XllXpWcQdrL37gIwv11wz",
+      "amount": 55.80,
+      "iso_currency_code": "USD",
+      "date": "2025-09-18",
+      "name": "Chevron Gas",
+      "merchant_name": "Chevron",
+      "transaction_id": "txn_gas_0918",
+      "payment_channel": "in store",
+      "pending": false,
+      "personal_finance_category": {
+        "primary": "TRANSPORTATION",
+        "detailed": "GAS",
+        "confidence_level": "VERY_HIGH"
+      }
+    },
+    {
+      "account_id": "YpYqZkR2n5IqYnK8XllXpWcQdrL37gIwv11wz",
+      "amount": 42.18,
+      "iso_currency_code": "USD",
+      "date": "2025-09-19",
+      "name": "DoorDash Delivery",
+      "merchant_name": "DoorDash",
+      "transaction_id": "txn_dd_0919",
+      "payment_channel": "online",
+      "pending": false,
+      "personal_finance_category": {
+        "primary": "FOOD_AND_DRINK",
+        "detailed": "RESTAURANTS",
+        "confidence_level": "VERY_HIGH"
+      }
+    },
+    {
+      "account_id": "YpYqZkR2n5IqYnK8XllXpWcQdrL37gIwv11wz",
+      "amount": 132.50,
+      "iso_currency_code": "USD",
+      "date": "2025-09-20",
+      "name": "The Home Depot",
+      "merchant_name": "The Home Depot",
+      "transaction_id": "txn_hd_0920",
+      "payment_channel": "in store",
+      "pending": false,
+      "personal_finance_category": {
+        "primary": "GENERAL_SERVICES",
+        "detailed": "HOME_IMPROVEMENT",
+        "confidence_level": "VERY_HIGH"
+      }
+    },
+    {
+      "account_id": "YpYqZkR2n5IqYnK8XllXpWcQdrL37gIwv11wz",
+      "amount": 38.50,
+      "iso_currency_code": "USD",
+      "date": "2025-09-20",
+      "name": "AMC Theatres",
+      "merchant_name": "AMC Theatres",
+      "transaction_id": "txn_amc_0920",
+      "payment_channel": "in store",
+      "pending": false,
+      "personal_finance_category": {
+        "primary": "ENTERTAINMENT",
+        "detailed": "MOVIES",
+        "confidence_level": "VERY_HIGH"
+      }
+    },
+    {
+      "account_id": "YpYqZkR2n5IqYnK8XllXpWcQdrL37gIwv11wz",
+      "amount": 85.00,
+      "iso_currency_code": "USD",
+      "date": "2025-09-21",
+      "name": "T-Mobile Autopay",
+      "merchant_name": "T-Mobile",
+      "transaction_id": "txn_tmo_0921",
+      "payment_channel": "online",
+      "pending": false,
+      "personal_finance_category": {
+        "primary": "RENT_AND_UTILITIES",
+        "detailed": "TELEPHONE",
+        "confidence_level": "VERY_HIGH"
+      }
+    }
+  ],
+  "modified": [],
+  "removed": [],
+  "next_cursor": "cursor_20250921_1",
+  "has_more": true,
+  "request_id": "req_Abc123Xyz",
+  "transactions_update_status": "INITIAL_UPDATE_COMPLETE"
+}
